@@ -1,0 +1,2 @@
+Sitemap: http://tokenzone.com/sitemap.xml
+User-agent: *
